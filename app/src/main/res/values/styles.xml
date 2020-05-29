@@ -1,0 +1,31 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorPrimary</item>
+        <item name="colorControlActivated">@color/colorPrimary</item>
+        <item name="colorControlHighlight">@color/colorPrimary</item>
+        <item name="colorControlNormal">@color/colorControlNormal</item>
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorOnPrimary">@color/colorOnPrimary</item>
+        <item name="colorPrimaryVariant">@color/textColorSecondary</item>
+        <item name="colorSecondary">@color/colorSecondary</item>
+        <item name="colorOnSecondary">@color/colorOnSecondary</item>
+        <item name="colorSurface">@color/colorSurface</item>
+        <item name="android:navigationBarColor">@color/colorNavigationBar</item>
+        <item name="colorPrimarySurface">@color/colorSurface</item>
+        <item name="colorOnSurface">@color/colorOnSurface</item>
+        <item name="colorError">@color/lipstick</item>
+        <item name="colorOnBackground">@color/colorOnBackground</item>
+
+        <item name="shapeAppearanceSmallComponent">@style/ShapeAppearance.SmallComponent</item>
+        <item name="shapeAppearanceMediumComponent">@style/ShapeAppearance.MediumComponent</item>
+        <item name="shapeAppearanceLargeComponent">@style/ShapeAppearance.LargeComponent</item>
+        <item name="textAppearanceButton">@style/ButtonStyle</item>
+
+        <item name="android:textColorPrimary">@color/textColorPrimary</item>
+        <item name="android:textColorSecondary">@color/textColorSecondary</item>
+        <item name="android:textAppearanceMedium">?attr/textAppearanceSubtitle1</item>
+    </style>
+
+</resources>
